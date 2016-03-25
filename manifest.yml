@@ -1,0 +1,8 @@
+---
+applications:
+- name: twilio
+  memory: 256M
+  host: hacktwilio
+  domain: mybluemix.net
+  services:
+  - Twilio-j8

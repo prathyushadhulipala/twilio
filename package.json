@@ -1,0 +1,22 @@
+{
+  "name": "twilio",
+  "version": "0.0.0",
+  "description": "This README.md file is displayed on your project page. You should edit this \r file to describe your project, including instructions for building and \r running the project, pointers to the license under which you are making the \r project available, and anything else you think would be useful for others to\r know.",
+  "main": "app.js",
+  "dependencies": {
+    "gopher": "^0.0.7",
+    "express": "^3.12.0",
+    "twilio": "^1.6.0",
+    "ejs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.jazz.net/git/tvganesh/websms"
+  },
+  "author": "",
+  "license": "ISC"
+}
